@@ -1,2 +1,2 @@
 # raspberry-pi-code
-Code to run my raspberry pi
+Code for projects on my raspberry pi
