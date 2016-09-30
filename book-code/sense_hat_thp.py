@@ -3,7 +3,7 @@ import time
 
 hat = SenseHat()
 
-while Ture:
+while True:
 	t = hat.get_temperature()
 	h = hat.get_humidity()
 	p = hat.get_pressure()
